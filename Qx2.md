@@ -1,4 +1,4 @@
-﻿
+Question #1 
 
 
 
@@ -140,7 +140,7 @@ What should you include in the recommendation?
 1. data classification
 1. dynamic data masking
 
-Question #2 Topic 12![](Aspose.Words.cb179fdc-9fd0-478f-ae9b-ee5cf9fb769b.006.png)
+Question #2 
 
 **Introductory Info**
 
