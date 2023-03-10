@@ -1,6 +1,8 @@
+# API Migration 
+
 As an API architect and project manager, here are some general steps that you may consider when planning a migration from IBM API Connect v2018 Apr to version 10.0.5:
 
-1.Review the API Connect version 10.0.5 documentation and release notes to understand the new features, changes, and requirements of the new version. This will help you to identify any potential compatibility issues or changes in configuration that may need to be addressed during the migration.
+1. Review the API Connect version 10.0.5 documentation and release notes to understand the new features, changes, and requirements of the new version. This will help you to identify any potential compatibility issues or changes in configuration that may need to be addressed during the migration.
 
 2. Assess the current state of your API Connect implementation, including any customizations, extensions, and integrations that are in use. This will help you to identify any potential risks, challenges, or areas of focus for the migration.
 
