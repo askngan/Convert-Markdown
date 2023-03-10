@@ -1,6 +1,4 @@
-﻿
-
-
+Question #1.
 
 
 
@@ -161,7 +159,8 @@ Community vote distribution
 
 C (56%) E (43%)
 
-Question #2 Topic 12![](Aspose.Words.d2c0739e-510e-4799-a42a-497fe09d68e8.008.png)
+
+Question #2.
 
 **Introductory Info**
 
